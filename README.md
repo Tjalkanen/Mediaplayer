@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Clone sources to your own virtual machine
 
 `git clone https://github.com/jvanhalen/mediaplayer.git`
@@ -24,3 +25,9 @@ http://opengameart.org/content/epic-fantasy-music
 - http://opengameart.org/sites/default/files/Soliloquy_1.mp3
 - http://opengameart.org/sites/default/files/Arabesque.mp3
 - http://opengameart.org/sites/default/files/Gran%20Batalla.mp3
+=======
+Mediaplayer
+===========
+
+mediaplayer harjoitus
+>>>>>>> caf2fa66bb330e11fec686d45260f4bb64f000a7
